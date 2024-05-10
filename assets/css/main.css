@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #a9acba;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #add8e6 15%, #a9acba 85%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #add8e6 15%, #a9acba 85%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #add8e6 15%, #a9acba 85%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #add8e6 15%, #a9acba 85%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2190,8 +2190,8 @@ input, select, textarea {
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #8cc9f0;
-		box-shadow: 0 0 0 1px #8cc9f0;
+		border-color: #a9acba;
+		box-shadow: 0 0 0 1px #a9acba;
 	}
 
 	::-webkit-input-placeholder {
@@ -2307,7 +2307,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #a9acba;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2898,7 +2898,7 @@ input, select, textarea {
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #a9acba;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3409,7 +3409,7 @@ input, select, textarea {
 			#main input[type="button"].primary,
 			#main button.primary,
 			#main .button.primary {
-				background-color: #8cc9f0;
+				background-color: #a9acba;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3456,8 +3456,8 @@ input, select, textarea {
 			#main input[type="email"]:focus,
 			#main select:focus,
 			#main textarea:focus {
-				border-color: #8cc9f0;
-				box-shadow: 0 0 0 1px #8cc9f0;
+				border-color: #a9acba;
+				box-shadow: 0 0 0 1px #a9acba;
 			}
 
 		#main select {
@@ -3489,8 +3489,8 @@ input, select, textarea {
 
 		#main input[type="checkbox"]:focus + label:before,
 		#main input[type="radio"]:focus + label:before {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #a9acba;
+			box-shadow: 0 0 0 1px #a9acba;
 		}
 
 		#main ::-webkit-input-placeholder {
@@ -3544,10 +3544,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
-			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #8cc9f0);
+			background-image: -moz-linear-gradient(90deg, #efa8b0, #a89cc8, #a9acba);
+			background-image: -webkit-linear-gradient(90deg, #efa8b0, #a89cc8, #a9acba);
+			background-image: -ms-linear-gradient(90deg, #efa8b0, #a89cc8, #a9acba);
+			background-image: linear-gradient(90deg, #efa8b0, #a89cc8, #a9acba);
 		}
 
 		#main table tbody tr {
