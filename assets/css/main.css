@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #9AC791;
+		background-color: #a9acba;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #add8e6 15%, #9AC791 85%);
@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #9AC791;
+		background-color: #a9acba;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -1957,7 +1957,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cc9f0;
+			background-color: #a9acba;
 			color: #ffffff !important;
 			box-shadow: none;
 		}
@@ -2157,8 +2157,8 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #8cc9f0;
-			box-shadow: 0 0 0 1px #8cc9f0;
+			border-color: #a9acba;
+			box-shadow: 0 0 0 1px #a9acba;
 		}
 
 	select {
